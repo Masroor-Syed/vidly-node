@@ -5,6 +5,8 @@ This project is the backend of Vidly, an imaginary video rental app. This projec
 - https://codewithmosh.com/p/mastering-react
 - https://codewithmosh.com/p/the-complete-node-js-course
 
+Link to the backend hosted on heroku: https://fierce-caverns-28649.herokuapp.com/api/
+
 ## Setup
 
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
